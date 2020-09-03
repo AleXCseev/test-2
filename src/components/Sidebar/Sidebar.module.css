@@ -1,0 +1,11 @@
+.Sidebar {
+	display: flex;
+	width: 25%;
+	background-color: #eee;
+	flex-direction: column;
+	overflow: scroll;
+	position: fixed;
+	top: 78px;
+	bottom: 0;
+	left: 0;
+}

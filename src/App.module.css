@@ -1,0 +1,8 @@
+.App {
+	position: relative;
+}
+
+.Wrapper {
+	display: flex;
+	justify-content: space-between;
+}

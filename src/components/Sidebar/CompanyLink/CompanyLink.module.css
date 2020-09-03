@@ -1,0 +1,17 @@
+.Link {
+	font-size: 20px;
+	margin: 7px auto;
+}
+
+.Link a {
+	color: black;
+}
+
+a.active {
+	font-weight: bold;
+	color: red;
+}
+
+.Link a:visited {
+	color: black;
+}

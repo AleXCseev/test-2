@@ -1,0 +1,28 @@
+.Company {
+	position: fixed;
+	top: 78px;
+	right: 0;
+	bottom: 0;
+	overflow: auto;
+	width: 75%;
+	padding: 20px;
+}
+
+.Company h2 {
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+
+.Company a {
+	display: block;
+	padding-bottom: 25px;
+}
+
+.Company p {
+	font-size: 20px;
+	margin-bottom: 25px;
+}
+
+.InputBox {
+	width: 280px;
+}

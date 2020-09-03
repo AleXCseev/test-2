@@ -1,0 +1,23 @@
+.Header {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-content: center;
+	align-items: center;
+	padding: 20px;
+	max-height: 78px;
+	background-color: #ddd;
+}
+
+.Logo {
+	width: 15%;
+}
+
+.Search {
+	width: 60%;
+	align-self: center;
+}
+
+.ButtonGroup {
+	width: 15%;
+}
